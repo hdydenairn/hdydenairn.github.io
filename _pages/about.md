@@ -12,11 +12,11 @@ You can contact me at hdydenairn@outlook.com
 Education
 ======
 
-2023-2024 - Master 2 of Economics, ENS Paris-Saclay & Université Paris Saclay
+2023-2024 -- Master 2 of Economics, ENS Paris-Saclay & Université Paris-Saclay
 
-2020-2021 - Master 1 of Economics, Universitat de València & Universitat Jaume I
+2020-2021 -- Master 1 of Economics, Universitat de València & Universitat Jaume I
 
-2016-2018 - Bachelor of Economics, University of Queensland
+2016-2018 -- Bachelor of Economics, University of Queensland
 
 
 Research experience
@@ -37,4 +37,4 @@ Labour Market Adjustment in the Eurozone | Master (M1) Thesis
 - Applied a Vector Autoregression (VAR) analysis to assess the impact of asymmetric economic shocks on country specific employment rates, finding that mobilitiy between countries absorbs up to 92% of asymmetric shocks within five years.
 
 ------
-Last update 01/2025 
+Last update 02/2025 
