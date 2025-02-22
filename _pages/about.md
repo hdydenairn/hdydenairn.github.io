@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research explores geoeconomics, trade policy, and industrial policy. I focus on how these policies impact natural resources and the environment through both economic modelling and empirical work.
+My research explores geoeconomics, trade, industrial and ESG policies. I focus on how these policies impact trade and the environment through both economic modelling and empirical work.
 
 Education
 ======
