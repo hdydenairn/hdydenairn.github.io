@@ -22,7 +22,7 @@ Bachelor of Economics, University of Queensland -- 2016-2018
 Research experience
 ======
 
-Research Economist Intern, ENGIE & Chair Energy and Prosperity
+Research Economist Intern, ENGIE
 
 Projects
 ======
