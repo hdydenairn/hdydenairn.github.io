@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-You can contact me at hdydenairn@outlook.com
+My research explores geoeconomics, trade policy, and industrial policy. I focus on how these policies impact natural resources and the environment through both economic modelling and empirical work.
 
 Education
 ======
 
-2023-2024 -- Master 2 of Economics, ENS Paris-Saclay & Université Paris-Saclay
+Master 2 of Economics, ENS Paris-Saclay & Université Paris-Saclay -- 2023-2024 
 
-2020-2021 -- Master 1 of Economics, Universitat de València & Universitat Jaume I
+Master 1 of Economics, Universitat de València & Universitat Jaume I -- 2020-2021
 
-2016-2018 -- Bachelor of Economics, University of Queensland
+Bachelor of Economics, University of Queensland -- 2016-2018
 
 
 Research experience
@@ -24,7 +24,7 @@ Research experience
 
 Research Economist Intern, ENGIE & Chair Energy and Prosperity
 
-Selected Research
+Projects
 ======
 
 Beef Demand Shocks and Deforestation | Master (M2) Thesis
