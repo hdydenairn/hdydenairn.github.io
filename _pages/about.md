@@ -24,4 +24,4 @@ Research experience
 Research Economist Intern, ENGIE
 
 ------
-Last update 02/2025 
+Updated 02/2025 
