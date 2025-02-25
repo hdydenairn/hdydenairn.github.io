@@ -10,11 +10,11 @@ redirect_from:
 
 [PDF Download](https://hdydenairn.github.io/files/cv_jan2025.pdf)
 
-# Research Interests
+## Research Interests
 
 **International Economics, Trade and Industrial Policy, Environmental Economics, Energy Economics**
 
-# Education
+## Education
 
 **Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)  
 **Thesis:** Foreign Demand, Production Expansion, and Deforestation: Evidence from Chinese Beef Imports from Brazil  
@@ -27,11 +27,11 @@ redirect_from:
 **Bachelor of Economics**, University of Queensland (2016 - 2018)  
 **Major:** Economics and Public Policy  
 
-# Experience
+## Experience
 
 **Research Economist (Internship)**, ENGIE & Chaire Energie et Prospérité (2024)  
 
-# Skills
+## Skills
 
 **Programming Languages:** R, Stata, Python  
 **Markup Languages:** LaTeX, RMarkdown  
