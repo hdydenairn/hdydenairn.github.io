@@ -30,16 +30,11 @@ redirect_from:
 # Experience
 
 **Research Economist (Internship)**, ENGIE & Chaire Energie et Prospérité (2024) 
-- Led a research project analyzing global supply chain risks in renewable energy sectors.
-- Identified environmental, geo-economic, and policy risks to renewable energy technology supply chains and quantified technology-specific potential impacts using an input-output modeling approach.
+- Mapping and testing of supply chain vulnerabilities for renewable energy technologies
 
 # Skills
 
 - **Programming Languages:** R, Stata, Python  
 - **Markup Languages:** LaTeX, RMarkdown  
 - **Languages:** English (Native), Spanish (C1), French (C1), Portuguese (B2)  
-
-# Certifications
-
-- **Google Data Analytics Professional Certificate**, Google Career Certificate (2022) 
 
