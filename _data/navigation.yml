@@ -8,8 +8,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Cartography"
-    url: /cartography/
+  - title: "DataViz"
+    url: /dataviz/
     
   - title: "CV"
     url: /cv/
