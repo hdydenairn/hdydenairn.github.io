@@ -36,8 +36,8 @@ GPA: 5.75 (0-7 scale)
 
 # Experience
 
-### Research Economist (Internship) *(May - November 2024)*  
-**ENGIE & Chaire Energie et Prospérité** - *Stains, France*  
+###  *(2024)*  
+**Research Economist (Internship)**, ENGIE & Chaire Energie et Prospérité *(2024)*  
 - Led a research project analyzing global supply chain risks in renewable energy sectors.
 - Identified environmental, geo-economic, and policy risks to renewable energy technology supply chains and quantified technology-specific potential impacts using an input-output modeling approach.
 
