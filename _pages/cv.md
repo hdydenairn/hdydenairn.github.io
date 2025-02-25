@@ -15,29 +15,20 @@ redirect_from:
 
 # Education
 
-**Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay *(2023 - 2024)*  
-GPA: 14.8 (0-20 Scale)  
+**Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)
 **Thesis:** Foreign Demand, Production Expansion, and Deforestation: Evidence from Chinese Beef Imports from Brazil  
-**Supervisor:** Clément Nedoncelle  
-**Relevant Coursework:** Applied Econometrics, Economics of International Negotiations, Advanced Labour Economics, Sustainable Development, Open-Economy Macroeconomics, Financial Macroeconomics, Urban & Regional Economics  
+**Supervisor:** Clément Nedoncelle
 
-**Master of Economics - Exchange Semester**, Universidad de Buenos Aires *(2023)*  
-**Relevant Coursework:** Economy of Argentina and Latin America, International Finance, International Trade  
-
-**Master of Economics - M1**, Universitat de Valencia & Universitat Jaume I *(2020 - 2021)*  
-GPA: 8.5 (0-10 scale)  
+**Master of Economics - M1**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)  
 **Thesis:** Eurozone Labour Market Adjustment: Before and After The Great Recession  
-**Supervisor:** Joan Martín Montaner  
-**Relevant Coursework:** Advanced Microeconomics, Microeconometrics, International Trade, Economic Integration  
+**Supervisor:** Joan Martín Montaner
 
-**Bachelor of Economics**, University of Queensland *(2016 - 2018)*  
-GPA: 5.75 (0-7 scale)  
+**Bachelor of Economics**, University of Queensland (2016 - 2018)  
 **Major:** Economics and Public Policy  
 
 # Experience
 
-###  *(2024)*  
-**Research Economist (Internship)**, ENGIE & Chaire Energie et Prospérité *(2024)*  
+**Research Economist (Internship)**, ENGIE & Chaire Energie et Prospérité (2024) 
 - Led a research project analyzing global supply chain risks in renewable energy sectors.
 - Identified environmental, geo-economic, and policy risks to renewable energy technology supply chains and quantified technology-specific potential impacts using an input-output modeling approach.
 
@@ -45,16 +36,9 @@ GPA: 5.75 (0-7 scale)
 
 - **Programming Languages:** R, Stata, Python  
 - **Markup Languages:** LaTeX, RMarkdown  
-- **Languages:** English (Native), Spanish (C1), French (B2), Portuguese (B1)  
+- **Languages:** English (Native), Spanish (C1), French (C1), Portuguese (B2)  
 
 # Certifications
 
-- **French B2 Certificate**, Mairie de Paris *(2024)*  
-- **Portuguese B1 Certificate**, Mairie de Paris *(2024)*  
-- **Google Data Analytics Professional Certificate**, Google Career Certificate *(2022)*  
-- **Spanish B2 Certificate**, Universitat Jaume I *(2021)*  
+- **Google Data Analytics Professional Certificate**, Google Career Certificate (2022) 
 
-# Referee
-
-**Master Thesis Supervisor:** Clément Nedoncelle  
-Email: [clement.nedoncelle@inrae.fr](mailto:clement.nedoncelle@inrae.fr)  
