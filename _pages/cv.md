@@ -16,7 +16,7 @@ redirect_from:
 
 # Education
 
-**Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)
+**Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)  
 **Thesis:** Foreign Demand, Production Expansion, and Deforestation: Evidence from Chinese Beef Imports from Brazil  
 **Supervisor:** Clément Nedoncelle
 
