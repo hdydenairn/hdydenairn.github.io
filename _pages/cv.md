@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download My CV (PDF)](https://hdydenairn.github.io/_cv/cv_012025.pdf)
+[Download My CV (PDF)](https://hdydenairn.github.io/_cv/cv_jan2025.pdf)
 
 # Research Interests
 
