@@ -1,8 +1,8 @@
 ---
-# layout: archive
-# title: "Data Visualization"
-# permalink: /dataviz/
-# author_profile: true
+layout: archive
+title: "Data Visualization"
+permalink: /dataviz/
+author_profile: true
 ---
 
 .
