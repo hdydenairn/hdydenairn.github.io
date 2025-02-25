@@ -18,7 +18,7 @@ Master 1 of Economics, Universitat de València & Universitat Jaume I -- 2020-20
 
 Bachelor of Economics, University of Queensland -- 2016-2018
 
-
+------
 Research experience
 ======
 
