@@ -30,7 +30,6 @@ redirect_from:
 # Experience
 
 **Research Economist (Internship)**, ENGIE & Chaire Energie et Prospérité (2024)  
-**Project:** Mapping and testing of supply chain vulnerabilities for renewable energy technologies
 
 # Skills
 
