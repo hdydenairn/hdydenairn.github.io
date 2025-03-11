@@ -7,18 +7,18 @@
 main:
   - title: "Research"
     url: /research/
-    
-  - title: "DataViz"
-    url: /dataviz/
+
+  - title: "Teaching"
+    url: /teaching/   
     
   - title: "CV"
     url: /cv/
 
-  - # title: "Talks"
-    # url: /talks/    
+  - title: "DataViz"
+  url: /dataviz/
 
-  - # title: "Teaching"
-    # url: /teaching/    
+  - # title: "Talks"
+    # url: /talks/     
     
   - # title: "Portfolio"
     # url: /portfolio/
