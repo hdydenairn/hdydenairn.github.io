@@ -5,5 +5,5 @@ permalink: /dataviz/
 author_profile: true
 ---
 
-## Europe Car Ownership - [CODE](https://github.com/hdydenairn/_cartography/blob/main/_eurostat/_car_ownership_europe.R)
+## Europe Car Ownership - [Code](https://github.com/hdydenairn/_cartography/blob/main/_eurostat/_car_ownership_europe.R)
 
