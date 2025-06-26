@@ -18,8 +18,9 @@ redirect_from:
 
 **PHD in Ecnomics**, Université de Montpellier (2025 - 2028)  
 **Thesis:** Integration of environmental and health externalities and indirect economic effects of recycling
-in a general equilibrium dynamic framework to study minerals recycling 
-**Supervisors:** Gilles Laforgue \& Francesco Ricci
+in a general equilibrium dynamic framework to study minerals recycling
+
+**Supervisors:** Gilles Laforgue & Francesco Ricci
 
 **Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)  
 **Thesis:** Foreign Demand, Production Expansion, and Deforestation: Evidence from Chinese Beef Imports from Brazil  
