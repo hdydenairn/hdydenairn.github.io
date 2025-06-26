@@ -35,7 +35,7 @@ redirect_from:
 
 **Researcher**, INERIS (French National Institute for Industrial Environment and Risks) (2025-)  
 
-**Researcher (Internship)**, ENGIE & Chaire Energie et Prospérité (2024)  
+**Researcher**, ENGIE & Chaire Energie et Prospérité (2024)  
 
 ## Skills
 
