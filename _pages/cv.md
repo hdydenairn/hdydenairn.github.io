@@ -12,7 +12,7 @@ redirect_from:
 
 ## Research Interests
 
-**International Economics, Trade and Industrial Policy, Environmental Economics, Energy Economics**
+**Environmental Economics, International Economics, Trade and Industrial Policy**
 
 ## Education
 
