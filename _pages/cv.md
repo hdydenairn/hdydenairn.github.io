@@ -16,30 +16,21 @@ redirect_from:
 
 ## Education
 
-**PHD in Ecnomics**, Université de Montpellier (2025 - 2028)  
-**Thesis:** Integration of environmental and health externalities and indirect economic effects of recycling in a general equilibrium dynamic framework to study minerals recycling<br>
+**PHD in Economics**, Université de Montpellier (2025 - 2028)  
 **Supervisors:** Gilles Laforgue & Francesco Ricci
 
-**Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)  
-**Thesis:** Foreign Demand, Production Expansion, and Deforestation: Evidence from Chinese Beef Imports from Brazil  
-**Supervisor:** Clément Nedoncelle
-
-**Master of Economics - M1**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)  
-**Thesis:** Eurozone Labour Market Adjustment: Before and After The Great Recession  
-**Supervisor:** Joan Martín Montaner
-
+**Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
+**Master of Economics - M1**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)<br>  
 **Bachelor of Economics**, University of Queensland (2016 - 2018)  
-**Major:** Economics and Public Policy  
 
 ## Experience
 
-**Researcher**, INERIS (French National Institute for Industrial Environment and Risks) (2025-)  
-
+**Researcher**, INERIS (French National Institute for Industrial Environment and Risks) (2025-)<br>
 **Researcher**, ENGIE & Chaire Energie et Prospérité (2024)  
 
 ## Skills
 
-**Programming Languages:** R, Stata, Python  
-**Markup Languages:** LaTeX, RMarkdown  
+**Programming Languages:** R, Stata, Python<br>
+**Markup Languages:** LaTeX, RMarkdown<br>
 **Languages:** English (Native), Spanish (C1), French (C1), Portuguese (B2)  
 
