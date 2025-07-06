@@ -19,8 +19,8 @@ redirect_from:
 **PHD in Economics**, Université de Montpellier (2025 - 2028)  
 **Supervisors:** Gilles Laforgue & Francesco Ricci
 
-**Master of Economics - M2**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
-**Master of Economics - M1**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)<br>
+**Master of Economics (M2)**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
+**Master of Economics (M1)**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)<br>
 **Bachelor of Economics**, University of Queensland (2016 - 2018)  
 
 ## Experience
