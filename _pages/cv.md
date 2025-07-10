@@ -32,5 +32,5 @@ redirect_from:
 
 **Programming Languages:** R, Stata, Python<br>
 **Markup Languages:** LaTeX, RMarkdown<br>
-**Languages:** English (Native), Spanish (C1), French (C1), Portuguese (B2)  
+**Languages:** English (Native), Spanish (C1), French (C1), Portuguese (B2)   
 
