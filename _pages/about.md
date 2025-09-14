@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the French National Institute for Industrial Environment and Risks, a PhD Candidate at the University of Montpellier, and a member of the Center for Environmental Economics - Montpellier.
+I am a researcher at the French National Institute for Industrial Environment and Risks (INERIS), a PhD Candidate at the University of Montpellier, and a member of the Center for Environmental Economics - Montpellier (CEE-M).
 
 ------
