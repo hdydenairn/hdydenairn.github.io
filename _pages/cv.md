@@ -25,7 +25,7 @@ redirect_from:
 
 ## Experience
 
-**Researcher**, INERIS (French National Institute for Industrial Environment and Risks) (2025-)<br>
+**Researcher**, INERIS (2025-)<br>
 **Researcher**, ENGIE (2024)  
 
 ## Skills
