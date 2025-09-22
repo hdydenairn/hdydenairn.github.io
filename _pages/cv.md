@@ -25,8 +25,8 @@ redirect_from:
 
 ## Experience
 
-**Researcher**, INERIS (2025-)<br>
-**Researcher**, ENGIE (2024)  
+**Doctoral Researcher**, INERIS (2025-)<br>
+**Research Engineer**, ENGIE (2024)  
 
 ## Skills
 
