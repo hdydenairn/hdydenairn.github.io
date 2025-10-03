@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "DataViz"
-    url: /dataviz/
+  - title: "Blog"
+    url: /blog/
 
   - # title: "Teaching"
     # url: /teaching/   
