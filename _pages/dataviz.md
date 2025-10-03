@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Data Visualization"
-permalink: /dataviz/
+title: "Blog"
+permalink: /blog/
 author_profile: true
 ---
 
