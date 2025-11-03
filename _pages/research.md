@@ -10,4 +10,4 @@ My research explores trade, industrial and ESG policies. I focus on how these po
 ## Ongoing Works (Working Papers Available Upon Request):
 
 EU renewables' Geographic Critical Raw Materials Dependencies - with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/).<br>
-Foreign Demand For Beef and Deforestation - with Costantino De Palma
+Foreign Demand and Deforestation: Evidence from Chinese Beef Imports from Brazil
