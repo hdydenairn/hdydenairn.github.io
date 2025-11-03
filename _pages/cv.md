@@ -18,7 +18,7 @@ redirect_from:
 
 **PHD in Economics**, University of Montpellier, [INERIS](https://www.ineris.fr/fr),  [CEE-M](https://www.cee-m.fr/), CNRS, INRAE (2025 - 2028)
 **Thesis** Renewable Energy and Strategic Technologies’ Supply Chains:  Risk, Regulation & Recycling
-**Supervisors:** [https://sites.google.com/site/gillafforgue/](Gilles Lafforgue) & [https://sites.google.com/view/francescoricci/welcome](Francesco Ricci)
+**Supervisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome)
 
 **Master of Economics (M2)**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
 **Master of Economics (M1)**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)<br>
