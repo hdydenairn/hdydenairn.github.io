@@ -16,7 +16,7 @@ redirect_from:
 
 ## Education
 
-**PHD in Economics**, University of Montpellier, [https://www.ineris.fr/fr](INERIS),  [https://www.cee-m.fr/](CEE-M), CNRS, INRAE (2025 - 2028)
+**PHD in Economics**, University of Montpellier, [INERIS](https://www.ineris.fr/fr),  [CEE-M](https://www.cee-m.fr/), CNRS, INRAE (2025 - 2028)
 **Thesis** Renewable Energy and Strategic Technologies’ Supply Chains:  Risk, Regulation & Recycling
 **Supervisors:** [https://sites.google.com/site/gillafforgue/](Gilles Lafforgue) & [https://sites.google.com/view/francescoricci/welcome](Francesco Ricci)
 
