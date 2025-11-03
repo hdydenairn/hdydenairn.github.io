@@ -20,8 +20,8 @@ redirect_from:
 **Advisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) (Toulouse Business School) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome) (University of Montpellier)
 
 ## Education
-**Master of Economics (M2)**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
-**Master of Economics (M1)**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)<br>
+**Master of Economics - MRES**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
+**Master of Economics - MA**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)<br>
 **Bachelor of Economics**, University of Queensland (2016 - 2018)  
 
 ## Industry Experience
