@@ -15,7 +15,7 @@ redirect_from:
 **Environmental Economics, Natural Resource Economics, International Economics**
 
 ## Current Position
-**PHD in Economics**, University of Montpellier, [INERIS](https://www.ineris.fr/fr),  [CEE-M](https://www.cee-m.fr/), CNRS, INRAE (2025 - 2028)<br>
+**PHD in Economics**, University of Montpellier, [INERIS](https://www.ineris.fr/fr),  [CEE-M](https://www.cee-m.fr/) (2025 - 2028)<br>
 **Thesis:** Renewable Energy and Strategic Technologies’ Supply Chains:  Risk, Regulation & Recycling<br>
 **Advisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) (Toulouse Business School) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome) (University of Montpellier)
 
