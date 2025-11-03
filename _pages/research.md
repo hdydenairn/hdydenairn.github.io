@@ -9,5 +9,5 @@ My research explores geoeconomics, trade, industrial and ESG policies. I focus o
 
 ## Ongoing Works (Working Papers Available Upon Request):
 
-EU renewables' Geographic Critical Raw Materials Dependencies - with María-Eugenia Sanin.<br>
+EU renewables' Geographic Critical Raw Materials Dependencies - with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/).<br>
 Foreign Demand For Beef and Deforestation - with Costantino De Palma
