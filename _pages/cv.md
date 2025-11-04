@@ -30,7 +30,7 @@ redirect_from:
 
 ## Skills
 
-**Programming Languages:** R, Stata, Python<br>
+**Programming Languages:** R, Python<br>
 **Markup Languages:** LaTeX, RMarkdown<br>
 **Languages:** English (Native), Spanish (C1), French (C1), Portuguese (B2)
 
