@@ -21,7 +21,7 @@ redirect_from:
 
 ## Previous Positions
 
-**Researcher**, [ENGIE](https://www.engie.com/) (2024)
+**Researcher**, [ENGIE](https://www.engie.com/) (2024)<br>
 **Assosciate Researcher**, [Chair Energy and Prosperity](https://chair-energy-prosperity.org/) (2024)
 
 
