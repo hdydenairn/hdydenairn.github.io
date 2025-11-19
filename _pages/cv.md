@@ -16,7 +16,7 @@ redirect_from:
 
 ## Current Position
 **PHD in Economics**, [University of Montpellier](https://www.umontpellier.fr/), [INERIS](https://www.ineris.fr/fr),  [CEE-M](https://www.cee-m.fr/) (2025 - 2028)<br>
-**Thesis:** Renewable Energy and Strategic Technologies’ Supply Chains:  Risk, Regulation & Recycling<br>
+**Thesis:** Risk, Regulation, Recycling: Dynamic Modeling of Material Resource Flows<br>
 **Advisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) (Toulouse Business School) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome) (University of Montpellier)
 
 ## Previous Positions
