@@ -16,7 +16,7 @@ redirect_from:
 
 ## Current Position
 **PHD in Economics**, [University of Montpellier](https://www.umontpellier.fr/), [INERIS](https://www.ineris.fr/fr),  [CEE-M](https://www.cee-m.fr/) (2025 - 2028)<br>
-**Thesis:** Risk, Regulation, Recycling: Dynamic Modeling of Material Resource Flows<br>
+**Thesis:** Externalities from primary and secondary production of critical raw materials<br>
 **Advisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) (Toulouse Business School) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome) (University of Montpellier)
 
 ## Previous Positions
@@ -26,7 +26,7 @@ redirect_from:
 
 
 ## Education
-**Master of Economics - MRES**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
+**Master of Economics - MRes**, ENS Paris-Saclay & Université Paris-Saclay (2023 - 2024)<br>
 **Master of Economics - MA**, Universitat de Valencia & Universitat Jaume I (2020 - 2021)<br>
 **Bachelor of Economics**, University of Queensland (2016 - 2018)  
 
