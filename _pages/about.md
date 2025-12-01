@@ -9,7 +9,7 @@ redirect_from:
 
 I am a doctoral researcher at [INERIS](https://www.ineris.fr/), the French National Institute for Industrial Environment and Risks, a PhD student at the [University of Montpellier](https://www.umontpellier.fr/), and a member of the [Center for Environmental Economics - Montpellier (CEE-M)](https://www.cee-m.fr/).
 
-My research examines how trade and industrial policies influence natural resources and environmental outcomes, and vice versa. I focus on these interactions within the geoeconomic dynamics surrounding strategic goods, using both economic modeling and empirical analysis.
+My research examines how trade and industrial policies influence natural resources and the environment - and vice versa. I focus on these interactions within the geoeconomic dynamics surrounding strategic goods, using both economic modeling and empirical analysis.
 
 ### Ongoing Works (Working Papers Available Upon Request):
 
