@@ -27,7 +27,7 @@ redirect_from:
 
 ## Education
 **Master of Economics - MRes**, ENS Paris-Saclay & Université Paris-Saclay (2024)<br>
-**Master of Economics - MSc**, Universitat de Valencia & Universitat Jaume I (2021)<br>
+**Master of Economics - MS**, Universitat de Valencia & Universitat Jaume I (2021)<br>
 **Bachelor of Economics**, University of Queensland (2018)  
 
 ## Skills
