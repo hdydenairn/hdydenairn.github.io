@@ -13,7 +13,7 @@ My research examines how trade and industrial policies influence natural resourc
 
 ### Ongoing Works (Working Papers Available Upon Request):
 
-EU renewables' Geographic Critical Raw Materials Dependencies - with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/).<br>
+Who Matters to Whom? Country-Level Upstream Risks and Downstream Renewable Energy Production - with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/).<br>
 Foreign Demand and Deforestation: Evidence from Chinese Beef Imports from Brazil
 
 ------
