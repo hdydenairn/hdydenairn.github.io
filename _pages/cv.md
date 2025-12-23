@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[PDF Download](https://hdydenairn.github.io/files/cv_november2025.pdf) (Updated November 2025)
+[PDF Download](https://hdydenairn.github.io/files/cv_december2025.pdf) (Updated December 2025)
 
 ## Research Interests
 
@@ -21,8 +21,9 @@ redirect_from:
 
 ## Previous Positions
 
-**Researcher**, [ENGIE](https://www.engie.com/) (2024)<br>
-**Associate Researcher**, [Chair Energy and Prosperity](https://chair-energy-prosperity.org/) (2024)
+**Researcher**, ENGIE (2024)<br>
+**Associate Researcher**, Chair Energy and Prosperity (2024)<br>
+**Teacher (Primary School)**   EMI - Rueil-Malmaison (2022)
 
 
 ## Education
