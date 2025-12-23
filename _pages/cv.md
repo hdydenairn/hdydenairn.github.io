@@ -25,7 +25,7 @@ redirect_from:
 **BS, Economics** — University of Queensland (2018)
 
 ## Conferences \& Seminars (*scheduled)
-**2026** — Orléans Meetings on Responsible Resources* (Orléans)\\
+**2026** — Orléans Meetings on Responsible Resources* (Orléans)<br>
 **2025** — Materials Scarcity and Recycling for the Energy Transition Workshop (Montpellier)
 
 ## Previous Positions
