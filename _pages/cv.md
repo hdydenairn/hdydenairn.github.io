@@ -31,7 +31,7 @@ redirect_from:
 ## Previous Positions
 **Researcher**, ENGIE (2024)<br>
 **Associate Researcher**, Chair Energy and Prosperity (2024)<br>
-**Teacher (Primary School)**   EMI - Rueil-Malmaison (2022)
+**Teacher (Primary School)**, EMI - Rueil-Malmaison (2022)
 
 ## Skills
 **Programming Languages:** R, Python<br>
