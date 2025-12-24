@@ -14,6 +14,5 @@ My research examines how trade and industrial policies influence natural resourc
 ### Ongoing Works (Working Papers Available Upon Request):
 
 Who Matters to Whom? Mapping Source–Destination Dependencies in Renewable Energy Supply Chains - with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/).<br>
-Foreign Demand and Deforestation: Evidence from Chinese Beef Imports from Brazil
-
+Foreign Demand and Deforestation: Evidence from a Supply Shock 
 ------
