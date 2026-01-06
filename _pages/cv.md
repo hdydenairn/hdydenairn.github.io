@@ -15,9 +15,9 @@ redirect_from:
 **Environmental Economics, Natural Resource Economics, International Economics**
 
 ## Current Position
-**PhD, Economics** — [University of Montpellier](https://economie.edu.umontpellier.fr/), [CEE-M](https://www.cee-m.fr/), [INERIS](https://www.ineris.fr/fr) (2025 - 2028)<br>
+**PhD, Economics** — [Université de Montpellier](https://economie.edu.umontpellier.fr/), [CEE-M](https://www.cee-m.fr/), [INERIS](https://www.ineris.fr/fr) (2025 - 2028)<br>
 **Thesis:** Externalities from Primary and Secondary Production of Critical Raw Materials<br>
-**Advisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) (Toulouse Business School) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome) (University of Montpellier)
+**Advisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) (Toulouse Business School) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome) (Université de Montpellier)
 
 ## Education
 **MRes, Economics** — ENS Paris-Saclay & Université Paris-Saclay (2024)<br>
