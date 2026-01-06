@@ -12,7 +12,7 @@ redirect_from:
 
 ## Research Interests
 
-**Environmental Economics, Natural Resource Economics, International Economics**
+**Natural Resource Economics, Environmental Economics, International Economics**
 
 ## Current Position
 **PhD, Economics** — [Université de Montpellier](https://economie.edu.umontpellier.fr/), [CEE-M](https://www.cee-m.fr/), [INERIS](https://www.ineris.fr/fr) (2025 - 2028)<br>
@@ -24,7 +24,7 @@ redirect_from:
 **MS, Economics** — Universitat de Valencia & Universitat Jaume I (2021)<br>
 **BS, Economics** — University of Queensland (2018)
 
-## Conferences \& Seminars (*scheduled)
+## Presentations (*scheduled)
 **2026** — Orléans Meetings on Responsible Resources* (Orléans)<br>
 **2025** — Materials Scarcity and Recycling for the Energy Transition Workshop (Montpellier)
 
