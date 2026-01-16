@@ -13,6 +13,7 @@ My research examines how trade and industrial policies influence natural resourc
 
 ### Ongoing Works (Working Papers Available Upon Request):
 
-Who Matters to Whom? Mapping Source–Destination Dependencies in Renewable Energy Supply Chains - with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/).<br>
-From Swine Fever in China to Forest Loss in Brazil: A Natural Experiment on Trade and Deforestation
-
+- **Managing Extraction and Recycling in a Dynamic Economy with Environmental Externalities**
+- **Who Matters to Whom? Mapping Source–Destination Dependencies in Renewable Energy Supply Chains**,  
+  with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/)
+- **From Swine Fever in China to Forest Loss in Brazil: A Natural Experiment on Trade and Deforestation**
