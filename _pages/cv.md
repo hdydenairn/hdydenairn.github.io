@@ -29,7 +29,7 @@ redirect_from:
 
  **2026** (including *upcoming*)<br>  Orleans Meetings on Responsible Resources — Orleans <br>
  *Environmental Economics: A Focus on Natural Resources — Orleans* <br>
- **2025** <br> Materials Scarcity and Recycling for the Energy Transition Workshop* — Montpellier 
+ **2025** <br> Materials Scarcity and Recycling for the Energy Transition Workshop — Montpellier 
 
 
 ## Previous Positions
