@@ -27,11 +27,11 @@ redirect_from:
 ## Presentations
 
 **2026**  
-- Orleans Meetings on Responsible Resources (Orleans)  
-- Environmental Economics: A Focus on Natural Resources (Orleans)
+- Orleans Meetings on Responsible Resources - Orleans   
+- Environmental Economics: A Focus on Natural Resources - Orleans (*upcoming*)
   
 **2025**  
-- Materials Scarcity and Recycling for the Energy Transition Workshop (Montpellier)
+- Materials Scarcity and Recycling for the Energy Transition Workshop - Montpellier
 
 ## Previous Positions
 **Researcher** — ENGIE (2024)<br>
