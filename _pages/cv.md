@@ -28,6 +28,7 @@ redirect_from:
 
 ## Presentations
 
+| Presentations   | &nbsp; |
 |---------|--------------------------------------------------------|
 | **2026** | Orleans Meetings on Responsible Resources* — Orleans |
 | &nbsp;   | *Environmental Economics: A Focus on Natural Resources — Orleans* |
