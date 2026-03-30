@@ -25,7 +25,7 @@ redirect_from:
 **BS, Economics** — University of Queensland (2018)
 
 ## Presentations
-
+| &nbsp;   | &nbsp;   |
 |---------|--------------------------------------------------------|
 | **2026** | Orleans Meetings on Responsible Resources* — Orleans |
 | &nbsp;   | *Environmental Economics: A Focus on Natural Resources — Orleans* |
