@@ -25,10 +25,10 @@ redirect_from:
 **BS, Economics** — University of Queensland (2018)
 
 ## Presentations
-**2026**  
+###2026 
 - Orleans Meetings on Responsible Resources - Orleans   
 - *Environmental Economics: A Focus on Natural Resources - Orleans*
-**2025**  
+###2025
 - Materials Scarcity and Recycling for the Energy Transition Workshop - Montpellier
 
 ## Previous Positions
