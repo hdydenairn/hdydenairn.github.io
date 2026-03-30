@@ -27,9 +27,9 @@ redirect_from:
 
 ## Presentations
 
- **2026**  Orleans Meetings on Responsible Resources — Orleans |
+ **2026**<br>  Orleans Meetings on Responsible Resources — Orleans <br>
  *Environmental Economics: A Focus on Natural Resources* — Orleans 
-
+<br>
  **2025** Materials Scarcity and Recycling for the Energy Transition Workshop* — Montpellier 
 
 
