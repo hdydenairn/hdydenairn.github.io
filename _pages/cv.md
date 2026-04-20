@@ -27,7 +27,7 @@ redirect_from:
 
 ## Presentations
 
- **2026** (*upcoming*)<br>  *Joint Workshop on Circular Economy Economic Modelling — Lisbon* <br>
+ **2026** *(upcoming)* <br>  *Joint Workshop on Circular Economy Economic Modelling — Lisbon* <br>
  Environmental Economics: A Focus on Natural Resources — Orleans <br>
  Orleans Meetings on Responsible Resources — Orleans <br>
  **2025** <br> Materials Scarcity and Recycling for the Energy Transition Workshop — Montpellier 
