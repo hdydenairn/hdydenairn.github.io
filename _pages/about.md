@@ -18,4 +18,4 @@ My research examines how trade and industrial policies influence natural resourc
 - Foreign Demand and Deforestation: Evidence from China’s Imports of Brazillian Beef
 
 ### Upcoming Presentations:
-Joint Workshop on Circular Economy Economic Modelling (WCERE Pre-Conference Workshop) - Lisbon, 29/06
+Joint Workshop on Circular Economy Economic Modelling (WCERE Pre-Conference Workshop) - Lisbon 29/06
