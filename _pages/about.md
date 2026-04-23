@@ -13,9 +13,9 @@ My research examines how trade and industrial policies influence natural resourc
 
 ### Ongoing Works (Working Papers Available Upon Request):
 
-- Extraction, Circularity, and the Environmental Cost of Recycling
+- Extraction, Recycling, and the Environmental and Health Costs of Circularity
 - Who Matters to Whom? Mapping Source–Destination Dependencies in Renewable Energy Supply Chains, with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/)
 - Foreign Demand and Deforestation: Evidence from China’s Imports of Brazillian Beef
 
 ### Upcoming Presentations:
-Joint Workshop on Circular Economy Economic Modelling (WCERE Pre-Conference Workshop) - Lisbon 29/06
+- Joint Workshop on Circular Economy Economic Modelling (WCERE Pre-Conference Workshop), Lisbon, 29 June 2026
