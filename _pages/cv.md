@@ -25,7 +25,7 @@ redirect_from:
 **BS, Economics** — University of Queensland (2018)
 
 
-## Presentations
+## Conferences
 
  **2026** *(upcoming)* <br>  *XII AERNA Conference - Castellón* <br>
  *Joint Workshop on Circular Economy Economic Modelling — Lisbon* <br>
