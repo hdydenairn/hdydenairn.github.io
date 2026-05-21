@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[PDF Download](https://hdydenairn.github.io/files/cv_december2025.pdf) (Updated December 2025)
+[PDF Download](https://hdydenairn.github.io/files/cv_may2026.pdf) (Updated May 2026)
 
 ## Research Interests
 
