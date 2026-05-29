@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 
-[PDF Download](https://hdydenairn.github.io/files/cv_may2026.pdf) (Updated May 2026)
+[PDF Download](https://hdydenairn.github.io/files/cv_june2026.pdf) (Updated May 2026)
 
-## Research Interests
+## Fields of Interest
 
-**Natural Resource Economics, Environmental Economics, International Economics**
+**Primary** - Environmental and Natural Resource Economics, Circular Economy<br>
+**Secondary** - International Trade, Industrial Policy, Geoeconomics
 
 ## Current Position
 **PhD, Economics** — [Université de Montpellier](https://economie.edu.umontpellier.fr/), [CEE-M](https://www.cee-m.fr/), [INERIS](https://www.ineris.fr/fr) (2025 - 2028)<br>
@@ -20,9 +21,9 @@ redirect_from:
 **Advisors:** [Gilles Lafforgue](https://sites.google.com/site/gillafforgue/) (Toulouse Business School) & [Francesco Ricci](https://sites.google.com/view/francescoricci/welcome) (Université de Montpellier)
 
 ## Education
-**MRes, Economics** — ENS Paris-Saclay & Université Paris-Saclay (2024)<br>
-**MS, Economics** — Universitat de Valencia & Universitat Jaume I (2021)<br>
-**BS, Economics** — University of Queensland (2018)
+**MRes, Economics** — ENS Paris-Saclay & Université Paris-Saclay (2023-24)<br>
+**MS, Economics** — Universitat de Valencia & Universitat Jaume I (2020-21)<br>
+**BS, Economics** — University of Queensland (2016-18)
 
 
 ## Conferences
