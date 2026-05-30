@@ -42,7 +42,6 @@ redirect_from:
 **Teacher (Primary School)** — EMI - Rueil-Malmaison (2021-2022)
 
 ## Skills
-**Programming Languages:** R, Python<br>
-**Markup Languages:** LaTeX, RMarkdown<br>
+**Software:** R, Python, LATEX, Markdown, GitHub, Microsoft Office <br>
 **Languages:** English (Native), Spanish (C1), French (C1), Portuguese (B2)
 
