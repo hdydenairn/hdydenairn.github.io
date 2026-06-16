@@ -19,5 +19,5 @@ My research examines how trade and industrial policies influence natural resourc
 
 ### Upcoming Presentations:
 **29/06 - Lisbon**  *Joint Workshop on Circular Economy Economic Modelling* <br>
-**03/09 September - Castellón** *XII AERNA Conference* <br>
-**10/09 Septmeber - Dijon** *XIII FAERE Conference* 
+**03/09 - Castellón** *XII AERNA Conference* <br>
+**10/09 - Dijon** *XIII FAERE Conference* 
