@@ -18,6 +18,5 @@ My research examines how trade and industrial policies influence natural resourc
 - Foreign Demand and Deforestation: Evidence from China’s Imports of Brazillian Beef
 
 ### Upcoming Presentations:
-**29/06 - Lisbon**  *Joint Workshop on Circular Economy Economic Modelling* <br>
 **03/09 - Castellón** *XII AERNA Conference* <br>
 **10/09 - Dijon** *XIII FAERE Conference* 
