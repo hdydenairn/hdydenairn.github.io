@@ -35,11 +35,13 @@ redirect_from:
  Orléans Meetings on Responsible Resources — Orléans <br>
  **2025** <br> Materials Scarcity and Recycling for the Energy Transition Workshop — Montpellier 
 
+## Teaching
+**TA, International Monetary Macroeconomics (L3)** Univ. Paris 1 (Fall 2026)<br>
+**Primary School Teacher, Mixed-Age Class (CP--CM2)** EMI, Rueil-Malmaison (2021--22)
 
 ## Previous Positions
 **Researcher** — ENGIE (2024)<br>
 **Associate Researcher** — Chair Energy and Prosperity (2024)<br>
-**Teacher (Primary School)** — EMI - Rueil-Malmaison (2021-2022)
 
 ## Skills
 **Software:** R, Python, LATEX, Markdown, GitHub, Microsoft Office <br>
