@@ -37,7 +37,7 @@ redirect_from:
 
 ## Teaching
 **TA, International Monetary Macroeconomics (L3)** Univ. Paris 1 (Fall 2026)<br>
-**Primary School Teacher, Mixed-Age Class (CP--CM2)** EMI, Rueil-Malmaison (2021--22)
+**Primary School Teacher, Mixed-Age Class (CP-CM2)** EMI, Rueil-Malmaison (2021-22)
 
 ## Previous Positions
 **Researcher** — ENGIE (2024)<br>
