@@ -28,7 +28,8 @@ redirect_from:
 
 ## Conferences
 
- **2026** *(scheduled)* <br> *XIII FAERE Conference - Dijon*  
+ **2026** *(scheduled)* <br> *Workshop on International Trade and Sustainability - Orléans*  <br>
+ *XIII FAERE Conference - Dijon*  <br>
  *XII AERNA Conference - Castellón* <br>
  Joint Workshop on Circular Economy Economic Modelling — Lisbon <br>
  Environmental Economics: A Focus on Natural Resources — Orléans <br>
