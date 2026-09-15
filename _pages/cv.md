@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[PDF Download](https://hdydenairn.github.io/files/cv_july2026.pdf) (Updated July 2026)
+[PDF Download](https://hdydenairn.github.io/files/cv_september2026.pdf) (Updated July 2026)
 
 ## Fields of Interest
 
@@ -28,9 +28,10 @@ redirect_from:
 
 ## Conferences
 
- **2026** *(scheduled)* <br> *Workshop on International Trade and Sustainability - Orléans*  <br>
- *XIII FAERE Conference - Dijon*  <br>
- *XII AERNA Conference - Castellón* <br>
+ **2026** *(scheduled)* <br> *Workshop on International Trade and Sustainability - Orléans  <br>
+ XIII FAERE Conference - Dijon  <br>
+ PEPR - subsurface: a common good Workshop - Dijon <br>
+ XII AERNA Conference - Castellón <br>
  Joint Workshop on Circular Economy Economic Modelling — Lisbon <br>
  Environmental Economics: A Focus on Natural Resources — Orléans <br>
  Orléans Meetings on Responsible Resources — Orléans <br>
