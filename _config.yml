@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-site_theme               : "default"
+site_theme               : "single"
 title                    : "Harrison Dyde-Nairn"
 title_separator          : "-"
 name                     : &name "Harrison Dyde-Nairn"
