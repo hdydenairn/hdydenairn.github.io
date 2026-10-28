@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My research examines how trade and industrial policies influence natural resources and the environment - and vice versa. [CV](https://hdydenairn.github.io/files/cv_september2026.pdf) (Updated September 2026).
+My research examines how trade and industrial policies influence natural resources and the environment - and vice versa. 
+
+[CV](https://hdydenairn.github.io/files/cv_october2026.pdf) (Updated September 2026).
 
 ### Ongoing Works (Working Papers Available Upon Request):
 
