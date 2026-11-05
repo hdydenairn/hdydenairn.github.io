@@ -41,7 +41,7 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* Remove the top menu bar */
+/* Remove the entire top header bar */
 .masthead {
-  display: none;
+  display: none !important;
 }
