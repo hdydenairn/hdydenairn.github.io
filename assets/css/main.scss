@@ -41,7 +41,16 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-/* Remove the entire top header bar */
+/* Remove the header and reduce empty space above the page */
 .masthead {
   display: none !important;
+}
+
+.initial-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page {
+  padding-top: 1rem !important;
 }
