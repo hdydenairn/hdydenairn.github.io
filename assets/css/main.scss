@@ -40,3 +40,8 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Remove the top menu bar */
+.masthead {
+  display: none;
+}
